@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class FindingPrime1 {
 	
+	
 	public static boolean isPrime(int n) {
 		
 		if(n==1) {
